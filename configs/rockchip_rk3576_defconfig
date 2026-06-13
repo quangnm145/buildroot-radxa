@@ -22,3 +22,5 @@
 #include "network/chromium.config"
 #include "npu2.config"
 #include "gui/weston.config"
+
+BR2_PACKAGE_WGET=y
